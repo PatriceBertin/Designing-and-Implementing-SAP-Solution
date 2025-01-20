@@ -7,7 +7,7 @@ RenewAgra is a multinational agricultural organization with three core business 
 - **TransCrop:** Manages global logistics for transporting agricultural products across multiple markets.  
 - **EnvoData:** Offers precision farming solutions through advanced data analytics and insights.  
 
-1. Streamline operations with SAP solutions.  
+  
 #### **Challenges Faced:**
 - **CropCo:** Struggles with inefficient inventory management, leading to delayed production cycles.  
 - **TransCrop:** Faces challenges in optimizing transportation routes and ensuring timely deliveries.  
@@ -20,6 +20,7 @@ RenewAgra is a multinational agricultural organization with three core business 
 To leverage SAP solutions to address RenewAgra’s operational challenges, ensure compliance, and foster sustainable growth across its business units.
 
 #### **Immediate Goals (0-6 months):**
+1. Streamline operations with SAP solutions.
 2. Enhance decision-making through real-time data insights.  
 3. Ensure compliance with international regulations.  
 4. Foster cross-functional collaboration.  
